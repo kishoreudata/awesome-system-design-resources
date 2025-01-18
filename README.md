@@ -166,4 +166,7 @@ Subscribe to my [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE 
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 - [The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
-  most asked system design questions ![image](https://github.com/user-attachments/assets/50439dda-9b81-436a-b123-0767266ead59)
+
+- most asked system design questions
+- resource link : https://www.youtube.com/watch?v=l3X1t3kpmwY
+-  ![image](https://github.com/user-attachments/assets/50439dda-9b81-436a-b123-0767266ead59)
